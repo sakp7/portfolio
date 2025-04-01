@@ -239,7 +239,7 @@ export default function Page() {
             variants={slideIn}
             className="text-4xl font-bold text-center mb-16 bg-gradient-to-r from-purple-400 to-pink-500 text-transparent bg-clip-text"
           >
-            Latest Blog Posts
+{/*             Latest Blog Posts
           </motion.h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
@@ -303,7 +303,7 @@ export default function Page() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Education Section */}
       <section id="education" className="py-20">
